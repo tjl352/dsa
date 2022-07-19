@@ -1,7 +1,9 @@
 let stack = [1,2,3];
 
-this.push(1);
+console.log(stack.length);
+stack.push(1);
 console.log(stack);
+console.log(stack.length);
 console.log(isEmpty());
 
 // O(1) time and space complexity
