@@ -1,0 +1,7 @@
+{
+    "workbench.tree.renderIndentGuides": "none",
+    "java.project.sourcePaths": [
+      "dsa-java",
+      ""
+    ]
+}
